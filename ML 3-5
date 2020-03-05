@@ -5,3 +5,36 @@ Today we are starting development with Flutter. We all have Flutter downloaded a
 We are visualizing the three starting screens that we will develop first: the login page, the home screen where we can upload 
 
 Uploaded document for what the app screens might look like.
+
+Following tutorial to connect our app to a backend
+- https://www.youtube.com/watch?v=sfA3NWDBPZ4
+
+That was just the first video. There is a whole tutorial we can follow to get the app paired with Firebase.
+The creation of the login page itself is pretty simple, but the backend stuff is going to be more complicated.
+
+For this week, we seem to have a basic idea of everything, and we have the general tools installed.
+
+For next weekend, at the latest, we need to have a commit for our initial project. This will simply be a login page with two
+username and password input fields, and then two different buttons, one for login and one for sign up.
+
+The login and sign up buttons should take the user to a different page, it doesn't need to actually work.
+
+After that, we will work on the firebase tutorials which we found a basic one on Youtube, or other tutorials / sample applications
+that we can use to start working with Firebase. 
+
+Here is another useful Flutter tutorial for Firebase.
+https://codelabs.developers.google.com/codelabs/flutter-firebase/index.html#0
+
+Here is an example application using firebase that is helpful
+https://medium.com/@jeffmcmorris/flutter-auth-with-firebase-example-96b64375fff3
+
+And here is a simple login page for Firebase, starting with the demo application that Flutter starts us out with:
+https://medium.com/flutterpub/flutter-how-to-do-user-login-with-firebase-a6af760b14d5
+
+And another firebase tutorial/ example login page:
+https://heartbeat.fritz.ai/firebase-user-authentication-in-flutter-1635fb175675
+
+For those of us that want to go faster and not wait through the videos, the above links are helpful. But otherwise,
+this seems like a really good and easy to follow video series that will get us through with a firebase app:
+
+- https://www.youtube.com/watch?v=sfA3NWDBPZ4
